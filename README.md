@@ -1,4 +1,4 @@
 # AndroidUIDesign
 Android UI Design Dashboard
+![Açıklama metni](ekran.png)
 
-Android UI Design UI (ekran.png)
